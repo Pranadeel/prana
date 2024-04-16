@@ -2,7 +2,7 @@
 $scriptUrl = "https://raw.githubusercontent.com/Pranadeel/prana/main/chrome1.ps1 "
 
 # Define the directory where you want to download the script
-$scriptDir = "D:\"
+$scriptDir = "C:\"
 $scriptPath = Join-Path -Path $scriptDir -ChildPath "chrome.ps1"
 
 # Download the script from GitHub
